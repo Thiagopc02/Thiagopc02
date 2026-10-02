@@ -1,16 +1,14 @@
 # Hi, I'm Thiago Torres 👋
 
-### Full-Stack Web Developer | Fast Delivery • Fair Pricing • Real Solutions
+**Full-Stack Web Developer | React • Next.js • TypeScript • Firebase**
 
-I build modern, responsive and business-focused websites and web applications for companies and entrepreneurs who need professional solutions without unnecessary complexity or overpriced development.
+I build modern, responsive and business-focused websites and web applications for companies and entrepreneurs who need professional digital solutions.
 
-My focus is simple: understand what the client actually needs and deliver a fast, functional and professional solution at a fair and transparent price.
+🌐 **Portfolio:**  
+https://thiago-t-oliveira-portfolio.vercel.app
 
-⚡ Fast and reliable delivery  
-💰 Fair and transparent pricing  
-🤝 Direct communication — no middlemen  
-🛠️ Solutions tailored to real business needs  
-🌎 Based in Brazil — available for remote projects worldwide
+💻 **GitHub:**  
+https://github.com/Thiagopc02
 
 ---
 
@@ -31,92 +29,123 @@ My focus is simple: understand what the client actually needs and deliver a fast
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
 React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-**Backend & Services**
+### Backend & Services
 
 Firebase • Firestore • Firebase Authentication • REST APIs
 
-**Payments & Integrations**
+### Payments & Integrations
 
 Mercado Pago • PIX • Online Checkout • Third-Party APIs
 
-**Tools & Deployment**
+### Tools & Deployment
 
 Git • GitHub • Vercel • VS Code
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-### 🏨 Império Chalés
+## 🛒 Império Bebidas & Tabacos
 
-Responsive hospitality website developed for a real accommodation business, designed to showcase chalets, present property information and provide visitors with an intuitive experience across desktop and mobile devices.
+Full-stack e-commerce platform developed for a real retail business.
 
-**Highlights:** Responsive Design • Hospitality • Booking Experience • Firebase • Administrative Features
+### Features
 
-🌐 [View Live Website](https://imperio-chales.vercel.app)  
-💻 [View Source Code](https://github.com/Thiagopc02/imperio-chales)
+- Customer authentication
+- Product catalog
+- Shopping cart
+- Address management
+- Delivery options
+- Order management
+- Administrative dashboard
+- Firebase and Firestore integration
+- Mercado Pago integration
+- PIX and card payments
 
----
+**Tech:** Next.js • TypeScript • Firebase • Firestore • Tailwind CSS
 
-### 🪄 Açaí do Bruxo
+🌐 **Live Website**  
+https://www.imperiodistribuidora3015.com.br
 
-Modern responsive commercial website featuring a strong custom visual identity, product presentation, interactive elements and a partner-focused digital experience.
-
-**Highlights:** Custom UI • Responsive Design • Product Showcase • Next.js • TypeScript
-
-🌐 [View Live Website](https://acai-do-bruxo.vercel.app)  
-💻 [View Source Code](https://github.com/Thiagopc02/acai-do-bruxo)
-
----
-
-### 🛒 Império Bebidas & Tabacos
-
-Full-stack e-commerce platform developed for a real retail business, including customer authentication, product catalog, shopping cart, delivery management, customer addresses, checkout, order management and an administrative dashboard.
-
-The platform also includes **Mercado Pago payment integration**, supporting online checkout, PIX and card payments.
-
-**Highlights:** E-commerce • Firebase • Firestore • Authentication • Mercado Pago • PIX • Shopping Cart • Orders • Admin Dashboard
-
-🌐 [View Live Website](https://site-imperio.vercel.app)  
-💻 [View Source Code](https://github.com/Thiagopc02/site-imperio)
+💻 **Source Code**  
+https://github.com/Thiagopc02/site-imperio
 
 ---
 
-### 🍽️ Digital Menu Platform
+## 🏨 Império Chalés
 
-Responsive digital ordering platform designed for restaurants and food businesses, featuring product presentation, customer ordering flow and WhatsApp checkout integration.
+Responsive hospitality website developed for a real accommodation business.
 
-**Highlights:** Digital Menu • Responsive Design • Ordering Flow • WhatsApp Integration
+The platform was designed to present the property, showcase the chalets and provide visitors with a clean and intuitive experience across desktop and mobile devices.
+
+**Highlights:** Responsive Design • Hospitality • Booking Experience • React • TypeScript
+
+🌐 **Live Website**  
+https://imperio-chales-site.vercel.app/
+
+💻 **Source Code**  
+https://github.com/Thiagopc02/imperio-chales
 
 ---
 
-## 💼 Why Work With Me?
+## 🪄 Açaí do Bruxo
 
-I believe professional software development should be accessible to businesses of all sizes.
+Modern responsive commercial website with a strong custom visual identity.
 
-My goal is not to add unnecessary features or inflate development costs. I focus on building what the business actually needs.
+The project focuses on product presentation, branding, responsive design and a distinctive digital experience.
 
-- ⚡ Fast development and delivery
-- 💰 Fair and transparent pricing
+**Highlights:** Custom UI • Responsive Design • Product Showcase • React • TypeScript • Tailwind CSS
+
+🌐 **Live Website**  
+https://acai-do-bruxo.vercel.app/
+
+💻 **Source Code**  
+https://github.com/Thiagopc02/acai-do-bruxo
+
+---
+
+## 🍽️ Digital Menu Platform
+
+Responsive digital ordering platform developed for restaurants and food businesses.
+
+### Features
+
+- Product presentation
+- Digital menu
+- Shopping cart
+- Customer ordering flow
+- WhatsApp checkout
+- Responsive interface
+
+**Highlights:** Next.js • TypeScript • Tailwind CSS • WhatsApp Integration
+
+💻 **Source Code**  
+https://github.com/Thiagopc02/cardapio-prodigital
+
+---
+
+# 💼 Why Work With Me?
+
+I focus on building practical digital solutions that solve real business problems.
+
+- ⚡ Fast and reliable development
 - 📱 Responsive design for desktop and mobile
-- 🤝 Direct communication throughout the project
+- 🤝 Direct communication
 - 🛠️ Solutions tailored to each business
 - 🚀 Production-ready deployment
 - 🔄 Support for improvements and future expansion
 
-Whether you need a simple landing page or a complete business platform, the objective is the same:
-
-**Deliver a professional solution that works, at a fair price, without unnecessary complexity.**
+Whether you need a landing page, business website, e-commerce platform or complete web application, my goal is to deliver a clean, functional and professional solution.
 
 ---
 
-## 🤝 Available for Freelance Work
+# 🤝 Available for Freelance Work
 
-I'm available for freelance and remote projects worldwide.
+I'm available for freelance and remote projects.
 
 I can help with:
 
@@ -131,14 +160,16 @@ I can help with:
 - Firebase applications
 - Custom web applications
 
-Have a project in mind?
-
-### Let's turn your idea into a real product. 🚀
-
 ---
 
-## 💼 Portfolio & Contact
+# 🌐 Portfolio & Contact
 
-🌐 [View my professional portfolio on Contra](https://contra.com/thiago_torres_de_olivei_xlmcwrug)
+### View my complete portfolio
 
-💻 [Explore my GitHub repositories](https://github.com/Thiagopc02)
+👉 https://thiago-t-oliveira-portfolio.vercel.app
+
+Inside the portfolio you can explore my projects, technologies, live websites, source code and ways to contact me.
+
+### GitHub
+
+👉 https://github.com/Thiagopc02
